@@ -1,6 +1,5 @@
-### **README.md**
 
-```markdown
+
 # **Subscription Service Management System **
 
 ## **Project Created By**  
