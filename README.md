@@ -1,6 +1,6 @@
 
 
-## **Subscription Service Management System **
+## Subscription Service Management System 
 
 ## **Project Created By**  
 Lipane Aniket Ashok  
