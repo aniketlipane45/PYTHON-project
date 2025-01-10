@@ -89,29 +89,6 @@ Key components include:
 
 ---
 
-## **Sample JSON Requests**  
-
-### **Add a User**  
-```json
-{
-    "user_id": 6,
-    "user_name": "Sophia Brown",
-    "email": "sophia.brown@example.com",
-    "status": "Active"
-}
-```
-
-### **Add a Payment**  
-```json
-{
-    "payment_id": 9,
-    "user_id": 2,
-    "amount": 19.99,
-    "payment_date": "2024-12-01"
-}
-```
-
----
 
 ## **Guidance**  
 This project was created under the guidance of **Sir Aniruddh Gaikwad**.  
