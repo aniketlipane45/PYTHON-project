@@ -9,7 +9,7 @@ DB_CONF_ID = {
     'host': 'localhost',
     'user': 'root',
     'password': 'ramram',
-    'database': 'ak'
+    'database': 'empdb'
 }
 
 
